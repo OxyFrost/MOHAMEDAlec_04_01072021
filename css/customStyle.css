@@ -1,0 +1,51 @@
+.logo{
+    width: 100px;
+}
+
+.btnContact{
+    background-color: darkred;
+    color: #FFF;
+    width: 200px;
+    height: 45px;
+}
+
+.btnContact:hover{
+    background-color: indianred;
+    color: #FFF;
+}
+
+.cat-title{
+    color: #0D3D56;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    margin: 0;
+}
+
+.cat-description{
+    font-size: 18px;
+}
+
+.service-title{
+    font-family: "helvetica", sans-serif;
+}
+
+.service-desc{
+    font-size: 14px;
+}
+
+.quote {
+    margin: auto;
+    font-size: 20px;
+    font-style: italic;
+    color: #313030;
+}
+
+cite {
+    font-style: normal;
+    font-size: initial;
+}
+
+.text-justified{
+    text-align: justify;
+    text-align-last: center;
+}

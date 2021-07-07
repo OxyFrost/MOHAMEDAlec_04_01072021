@@ -1662,7 +1662,7 @@ mark {
 }
 
 .text-justify {
-    text-align: justify
+    text-align: justify;
 }
 
 .text-nowrap {
