@@ -734,7 +734,7 @@ a[data-lightbox]:hover img {
 }
 
 .bg-presentation {
-    background-image: url("../img/image-de-presentation.bmp");
+    background-image: url("../img/image-de-presentation.png");
 }
 
 @media (max-width: 1024px) {
